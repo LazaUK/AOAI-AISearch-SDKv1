@@ -1,11 +1,8 @@
 # Retrieval-Augmented Generation (RAG) with Azure OpenAI and Azure AI Search
 
-By default, blobs and containers on Azure Storage account are not accessible by anonymous accounts.
+This repo demonstrates how to setup RAG solution in Azure, using Azure OpenAI on "own data" in tandem with Azure AI Search.
 
-This repo explains how to authenticate with an Azure Storage account...
-
-
-> **Note:** Data file used in this repo was borrowed from [Microsoft's Azure OpenAI + Azure AI Search open-source solution](https://github.com/Azure-Samples/azure-search-openai-demo)
+> **Note:** Data file used in this repo was borrowed from the [Microsoft's Azure OpenAI + Azure AI Search open-source solution](https://github.com/Azure-Samples/azure-search-openai-demo)
 
 ## Table of contents:
 - [Pre-requisites]()
