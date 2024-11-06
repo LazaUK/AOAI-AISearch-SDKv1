@@ -15,7 +15,7 @@ This repo demonstrates how to setup RAG solution in Azure, using Azure OpenAI on
 ``` PowerShell
 pip install --upgrade openai
 ```
-2. Set the following 3 environment variables before running the notebooks:
+2. Set the following 7 environment variables before running the notebooks:
 
 | Environment Variable | Description |
 | --- | --- |
